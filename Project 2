@@ -6,7 +6,6 @@ display: inline block;
      
 }
     
-
 }
 div { column-gap: 10px; }
 
