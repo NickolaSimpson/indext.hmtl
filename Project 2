@@ -32,8 +32,136 @@ h2{
    font-weight:300 ;
     display: inline;
 }
+############### resume.html#########
+<!DOCTYPE html>
+<html>
+  <link href="resumeStyle.css" rel="stylesheet" type="text/css">
+  <title>Resume</title>
+  <head>
+<style>
 
-h4{
+
+</style>
+  </head>
+  <body>
+  <div id="header">
+    <h1>Nickola Simpson<h1>
+    <p>Contact# 919-698-4566</p><br>
+    <p>Email:nickola.simpson@my.benedicr.edu<br>
+1600 Harden Street,<br>
+Columbia,
+South Carolina,2920</p>
+    
+  </div></header>
+  <div id="activenav">
+  <ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">Resume</a></li>
+  <li><a href="#contact">Project</a></li>
+</ul>
+</div>
+  
+  <div class="container"</div>
+    <div class="profile"</div>
+      <div class="profile_container" </div>
+        
+        <top-right><img src="Photo.jpeg"></img></top-right></div>
+
+
+<div>
+<h2 class="profile_name"><span class="profile_name_first">Ms. Nickola</span> <span class="profile_name_last">Simpson</span></h2>
+<br>
+<p class="profile_title">Real Time Analyst</p>
+<hr>
+
+<h4>
+<u><i><b>Summary</i></u></b>
+<br>
+<br>
+</h4>
+<p class="discription">Proficient Workforce Analyst adept at collecting, evaluating and modeling data sets to make forward-thinking improvements to workforce plans. Well-organized and knowledgeable with top skills in complex problem-solving and strategic decision-making. Prepared to offer 2 years experience and seeking a dynamic new position. Dedicated to keeping optimal staffing levels to meet service needs. Skilled at delivering new-hire training on attendance issues, as well as monitoring workflow patterns and managing schedule changes. Writing detailed reports, maintaining tracking spreadsheets and generating forecasts.
+</p>
+
+
+<hr>
+<h4>
+<u><i><b>Skills</b></i></u> <br>
+</h4>
+<ul class="skills">
+<li>Compiling Data</li>
+<li>Determining Staffing Needs</li>
+<li>Report Writing</li>
+<li>Workforce Management Tools</li>
+<li>Setting Schedules</li>
+<li>Maintaining Service Levels</li>
+</ul>
+<hr>
+
+
+<h4>
+<u><i><b>Experences</b></i></u>
+</h4>
+<p><b>
+Workforce Real Time Analyst
+</b>
+<br>
+Kingston, Jamaica
+</p>
+<br>
+<i>Hinduja Global Solutions/Aug 2021-Aug 2022</i>
+</p>
+<br>
+<br>
+<ul class="skills">
+<li>Handled all schedule-related requests, including PTO, shift swaps and overtime.  </li>
+<li> Collaborated with senior and department leaders to develop and implement workforce plans </li>
+<li> Determined appropriate schedules and made proactive adjustments to meet coverage and service objectives. </li>
+<li> Developed new-hire training materials regarding all attendance and schedule matters. </li>
+<li> Offered subject matter expertise on employment regulations, compensation policies and personnel management procedures to optimize internal structures. </li>
+<li>Maintained thorough and current personnel handbooks and records  </li>
+</ul>
+<hr>
+
+
+<h4>
+<l><u><b>Courses taken</b></u></l>
+</h4>
+<br>
+<table>
+<tr>
+<th>Year 2014</th>
+<th>Year 2015</th>
+</tr>
+<tr>
+  <td>Social Studies</td>
+  <td>intigrated Science</td>
+</tr>
+<tr>
+  <td>Math</td>
+  <td>English</td>
+  
+  </tr>
+  <tr>
+  
+  <td>Cosmotology</td>
+  <td>Religious Education</td>
+</td>
+</table>
+</ul>
+<div class="footer">
+  <h2>Footer</h2>
+  <br>
+  <ul>
+<li <a href="https://www.facebook.com/Nickola.Simpson16/">Facebook</a></li>
+  <br>
+  </li <a href="https://www.linkedin.com/in/nickola-simpson-59987624b/">LinkedIn</a></li>
+  </ul>
+  
+</div>
+
+</body>
+  
+</html>
     text-align:left;
   margin:10px;
    font-weight:400 ;
